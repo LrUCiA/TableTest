@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Table
 //
-//  Created by LrUCiA on 2022/02/11.
+//  Created by LrUCiA.
 //
 
 import UIKit
